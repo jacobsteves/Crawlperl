@@ -29,25 +29,25 @@ placed in this repo.
 <pre>
   Usage: perl CrawlPerl.pl -u <url_start> [-r <url_root>] [-options]
 
-  NOTE: <val> represents a value. Example,
-    -b <verbose>
+  NOTE: &lt;val> represents a value. Example,
+    -b &lt;verbose>
           would be implemented with verbose level 3 like..
     -b 3
 
   Options:
-    -b <verbose>: print more details of crawling.
+    -b &lt;verbose>: print more details of crawling.
         0 (default value) - print only basic information of urls/links crawled.
         0x1 = 1 - print the type/size and file download information.
         0x2 = 2 - print the saved file local path.
         0x4 = 4 - print the reject/ignore file reason.
     --verbose: same as -b
 
-    -c <seconds>: wait time in seconds before crawling next html page.
+    -c &lt;seconds>: wait time in seconds before crawling next html page.
 
     -d: debug, print debug information.
     --debug: same as -d
 
-    -e <default referer>: default referer when crawling a url, if none exists.
+    -e &lt;default referer>: default referer when crawling a url, if none exists.
         This is used when crawling the first page, when no referer exists yet.
     --referer-default: same as -e
 
@@ -60,14 +60,14 @@ placed in this repo.
     -h: print this help message.
     --help: same as -h
 
-    -i <0 || 1>: download non-text files outside the url_root. Value is on(1)/off(0). Default is on.
+    -i &lt;0 || 1>: download non-text files outside the url_root. Value is on(1)/off(0). Default is on.
         Used when some linked files are stored outside the url_root.
     --include-outside-file: same as -i
 
-    -l <level number>: max levels to crawl. Default to 0, 0 means inifinite.
+    -l &lt;level number>: max levels to crawl. Default to 0, 0 means inifinite.
     --level-crawl: same as -l
 
-    -m <mime type>: file MIME type. Only files with given MIME types are downloaded.
+    -m &lt;mime type>: file MIME type. Only files with given MIME types are downloaded.
         text - 0x1 = 1
         image - 0x2 = 2
         audio - 0x4 = 4
@@ -75,14 +75,14 @@ placed in this repo.
         For more options, head to https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types.
     --mime_type: same as -m
 
-    -n <number of links>: the number of links to crawl. 0 means inifinite.
+    -n &lt;number of links>: the number of links to crawl. 0 means inifinite.
 
-    -o <0 || 1 || 2>: overwrite previous download result.
+    -o &lt;0 || 1 || 2>: overwrite previous download result.
         0: do not overwrite; 1: move from Dir to Dir-2; 2: remove.
         When not specify -o, is 0; when use -o without a value, default to 1.
     --overwrite: same as -o
 
-    -r <url_root>: root url.
+    -r &lt;url_root>: root url.
         Only files under this path are downloaded. Except when -o is used.
     --url-root: same as -r
 
@@ -90,7 +90,7 @@ placed in this repo.
         Dynamic pages with parameters like http://test.php?a=b are ignored.
     --static-only: same as -s
 
-    -u <url_start>: start url.
+    -u &lt;url_start>: start url.
         This is where a crawling task starts from.
     --url_start: same as -u
 
@@ -100,7 +100,7 @@ placed in this repo.
     -V: verbose.
     --verbose: same as -V
 
-    -w <seconds>: wait time (seconds) before getting next url. Difference of this
+    -w &lt;seconds>: wait time (seconds) before getting next url. Difference of this
         with -c is: on each html page, there can be several urls. -c is
         for each html page, -w is for each url.
     --wait: same as -w
