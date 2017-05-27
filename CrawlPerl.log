@@ -1,0 +1,621 @@
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:46 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:05:46 2017 url_root:  https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:46 2017 url_start: https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:46 2017 mkdir -p "./download/"
+Sat May 27 11:05:46 2017 Local repository ./download/ is created
+Sat May 27 11:05:46 2017 mkdir -p "./download/www.reddit.com_r_uwaterloo"
+Sat May 27 11:05:46 2017 Local root ./download/www.reddit.com_r_uwaterloo is created
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:51 2017 link #1: https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:52 2017
+Sat May 27 11:05:52 2017 Links found: 1
+Sat May 27 11:05:52 2017 Links crawlable: 1
+Sat May 27 11:05:52 2017 Links crawled (A): 1
+Sat May 27 11:05:52 2017 Other files downloaded (B): 0
+Sat May 27 11:05:52 2017 Total files downloaded (A+B): 1
+Sat May 27 11:05:52 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:05:52 2017 Total time spent: 00:00:06
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:16 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:07:16 2017 url_root:  https://www.jacobsteves.ca/
+Sat May 27 11:07:16 2017 url_start: https://www.jacobsteves.ca/
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:16 2017 mkdir -p "./download/www.jacobsteves.ca"
+Sat May 27 11:07:16 2017 Local root ./download/www.jacobsteves.ca is created
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:21 2017 link #1: https://www.jacobsteves.ca/
+Sat May 27 11:07:22 2017
+Sat May 27 11:07:22 2017 Links found: 1
+Sat May 27 11:07:22 2017 Links crawlable: 1
+Sat May 27 11:07:22 2017 Links crawled (A): 1
+Sat May 27 11:07:22 2017 Other files downloaded (B): 0
+Sat May 27 11:07:22 2017 Total files downloaded (A+B): 1
+Sat May 27 11:07:22 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:07:22 2017 Total time spent: 00:00:06
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:08:37 2017 url_root:  http://www.jacobsteves.ca/
+Sat May 27 11:08:37 2017 url_start: http://www.jacobsteves.ca/
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017 Links found: 1
+Sat May 27 11:08:37 2017 Links crawlable: 1
+Sat May 27 11:08:37 2017 Links crawled (A): 1
+Sat May 27 11:08:37 2017 Other files downloaded (B): 0
+Sat May 27 11:08:37 2017 Total files downloaded (A+B): 1
+Sat May 27 11:08:37 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:08:37 2017 Total time spent: 00:00:00
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:50 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:08:50 2017 url_root:  http://a.com/
+Sat May 27 11:08:50 2017 url_start: http://a.com/
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:50 2017 mkdir -p "./download/a.com"
+Sat May 27 11:08:50 2017 Local root ./download/a.com is created
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:55 2017 link #1: http://a.com/
+Sat May 27 11:08:56 2017
+Sat May 27 11:08:56 2017 Links found: 1
+Sat May 27 11:08:56 2017 Links crawlable: 1
+Sat May 27 11:08:56 2017 Links crawled (A): 1
+Sat May 27 11:08:56 2017 Other files downloaded (B): 0
+Sat May 27 11:08:56 2017 Total files downloaded (A+B): 1
+Sat May 27 11:08:56 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:08:56 2017 Total time spent: 00:00:06
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:29 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:09:29 2017 url_root:  http://reddit.com/
+Sat May 27 11:09:29 2017 url_start: http://reddit.com/
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:29 2017 mkdir -p "./download/reddit.com"
+Sat May 27 11:09:29 2017 Local root ./download/reddit.com is created
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:34 2017 link #1: http://reddit.com/
+Sat May 27 11:09:35 2017
+Sat May 27 11:09:35 2017 Links found: 1
+Sat May 27 11:09:35 2017 Links crawlable: 1
+Sat May 27 11:09:35 2017 Links crawled (A): 1
+Sat May 27 11:09:35 2017 Other files downloaded (B): 0
+Sat May 27 11:09:35 2017 Total files downloaded (A+B): 1
+Sat May 27 11:09:35 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:09:35 2017 Total time spent: 00:00:06
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:14:14 2017 url_root:  http://www.jacobsteves.ca/
+Sat May 27 11:14:14 2017 url_start: http://www.jacobsteves.ca/
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017 Links found: 1
+Sat May 27 11:14:14 2017 Links crawlable: 1
+Sat May 27 11:14:14 2017 Links crawled (A): 1
+Sat May 27 11:14:14 2017 Other files downloaded (B): 0
+Sat May 27 11:14:14 2017 Total files downloaded (A+B): 1
+Sat May 27 11:14:14 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:14:14 2017 Total time spent: 00:00:00
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:15:20 2017 url_root:  http://reddit.com/
+Sat May 27 11:15:20 2017 url_start: http://reddit.com/
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017 Links found: 1
+Sat May 27 11:15:20 2017 Links crawlable: 1
+Sat May 27 11:15:20 2017 Links crawled (A): 1
+Sat May 27 11:15:20 2017 Other files downloaded (B): 0
+Sat May 27 11:15:20 2017 Total files downloaded (A+B): 1
+Sat May 27 11:15:20 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:15:20 2017 Total time spent: 00:00:00
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:32 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:16:32 2017 url_root:  http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:32 2017 url_start: http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:32 2017 mkdir -p "./download/www.jacobsteves.ca_index.php"
+Sat May 27 11:16:32 2017 Local root ./download/www.jacobsteves.ca_index.php is created
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:37 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:39 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 11:16:47 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 11:16:56 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 11:16:57 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 11:17:04 2017 link #4: http://www.jacobsteves.ca/index.php/index.php
+Sat May 27 11:17:12 2017 link #5: http://www.jacobsteves.ca/index.php/aboutme.php
+Sat May 27 11:17:21 2017 link #6: http://www.jacobsteves.ca/index.php/software.php
+Sat May 27 11:17:29 2017 link #7: http://www.jacobsteves.ca/index.php/contact.php
+Sat May 27 11:17:37 2017 link #8: http://www.jacobsteves.ca/index.php/images/universe.gif
+Sat May 27 11:17:38 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/images/"
+Sat May 27 11:17:45 2017 link #9: http://www.jacobsteves.ca/index.php/UniverseSimulator
+Sat May 27 11:17:53 2017 link #10: http://www.jacobsteves.ca/index.php/images/cuberacing.png
+Sat May 27 11:18:02 2017 link #11: http://www.jacobsteves.ca/index.php/cuberacing
+Sat May 27 11:18:09 2017 link #12: http://www.jacobsteves.ca/index.php/images/unimath.png
+Sat May 27 11:18:18 2017 link #13: http://www.jacobsteves.ca/index.php/images/inauguration.png
+Sat May 27 11:18:27 2017 link #14: http://www.jacobsteves.ca/index.php/inauguration/index.php
+Sat May 27 11:18:28 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/inauguration/"
+Sat May 27 11:18:35 2017 link #15: http://www.jacobsteves.ca/index.php/images/mario.jpg
+Sat May 27 11:18:43 2017 link #16: http://www.jacobsteves.ca/index.php/images/pfb.jpg
+Sat May 27 11:18:52 2017 link #17: http://www.jacobsteves.ca/index.php/images/lumberjack_screenshot.png
+Sat May 27 11:19:00 2017 link #18: http://www.jacobsteves.ca/index.php/software.php?name=lumberjack
+Sat May 27 11:19:11 2017 link #19: http://www.jacobsteves.ca/index.php/images/waterlooCourseAvailabilityScreenshot.png
+Sat May 27 11:19:23 2017 link #20: http://www.jacobsteves.ca/index.php/software.php?id=17
+Sat May 27 11:19:33 2017 link #21: http://www.jacobsteves.ca/index.php/images/gameboy.jpg
+Sat May 27 14:09:20 2017
+Sat May 27 14:09:20 2017 |        CrawlPerl Started        |
+Sat May 27 14:09:20 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:09:20 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:11:26 2017
+Sat May 27 14:11:26 2017 |        CrawlPerl Started        |
+Sat May 27 14:11:26 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:11:26 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:44 2017
+Sat May 27 14:12:44 2017 |        CrawlPerl Started        |
+Sat May 27 14:12:44 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:44 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:46 2017
+Sat May 27 14:12:46 2017 |        CrawlPerl Started        |
+Sat May 27 14:12:46 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:46 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017
+Sat May 27 14:14:17 2017 |        CrawlPerl Started        |
+Sat May 27 14:14:17 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017 mkdir -p "./datawww.jacobsteves.ca_index.php"
+Sat May 27 14:14:17 2017 Local root ./datawww.jacobsteves.ca_index.php is created
+Sat May 27 14:14:17 2017
+Sat May 27 14:14:22 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:23 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:14:24 2017 mkdir -p "./datawww.jacobsteves.ca"
+Sat May 27 14:14:32 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:14:40 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:14:41 2017 mkdir -p "./datawww.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:14:55 2017
+Sat May 27 14:14:55 2017 |        CrawlPerl Started        |
+Sat May 27 14:14:55 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:55 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:55 2017 mkdir -p "./data/www.jacobsteves.ca_index.php"
+Sat May 27 14:14:55 2017 Local root ./data/www.jacobsteves.ca_index.php is created
+Sat May 27 14:14:55 2017
+Sat May 27 14:15:00 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:01 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:15:02 2017 mkdir -p "./data/www.jacobsteves.ca"
+Sat May 27 14:15:28 2017
+Sat May 27 14:15:28 2017 |        CrawlPerl Started        |
+Sat May 27 14:15:28 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:28 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:33 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:15:42 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:15:43 2017 mkdir -p "./data/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:22:42 2017
+Sat May 27 14:22:42 2017 |        CrawlPerl Started        |
+Sat May 27 14:22:42 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:42 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:42 2017 mkdir -p "./data/www.jacobsteves.ca_index.php"
+Sat May 27 14:22:42 2017 Local root ./data/www.jacobsteves.ca_index.php is created
+Sat May 27 14:22:42 2017
+Sat May 27 14:22:47 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:49 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:22:50 2017 mkdir -p "./data/www.jacobsteves.ca"
+Sat May 27 14:22:57 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:23:06 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:23:07 2017 mkdir -p "./data/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:55:33 2017
+Sat May 27 14:55:33 2017 |---------- CrawlPerl Started ----------|
+Sat May 27 14:55:33 2017 Spider released.
+Sat May 27 14:55:33 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:55:33 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:55:38 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:46 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:05:46 2017 url_root:  https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:46 2017 url_start: https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:46 2017 mkdir -p "./download/"
+Sat May 27 11:05:46 2017 Local repository ./download/ is created
+Sat May 27 11:05:46 2017 mkdir -p "./download/www.reddit.com_r_uwaterloo"
+Sat May 27 11:05:46 2017 Local root ./download/www.reddit.com_r_uwaterloo is created
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:51 2017 link #1: https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:52 2017
+Sat May 27 11:05:52 2017 Links found: 1
+Sat May 27 11:05:52 2017 Links crawlable: 1
+Sat May 27 11:05:52 2017 Links crawled (A): 1
+Sat May 27 11:05:52 2017 Other files downloaded (B): 0
+Sat May 27 11:05:52 2017 Total files downloaded (A+B): 1
+Sat May 27 11:05:52 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:05:52 2017 Total time spent: 00:00:06
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:16 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:07:16 2017 url_root:  https://www.jacobsteves.ca/
+Sat May 27 11:07:16 2017 url_start: https://www.jacobsteves.ca/
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:16 2017 mkdir -p "./download/www.jacobsteves.ca"
+Sat May 27 11:07:16 2017 Local root ./download/www.jacobsteves.ca is created
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:21 2017 link #1: https://www.jacobsteves.ca/
+Sat May 27 11:07:22 2017
+Sat May 27 11:07:22 2017 Links found: 1
+Sat May 27 11:07:22 2017 Links crawlable: 1
+Sat May 27 11:07:22 2017 Links crawled (A): 1
+Sat May 27 11:07:22 2017 Other files downloaded (B): 0
+Sat May 27 11:07:22 2017 Total files downloaded (A+B): 1
+Sat May 27 11:07:22 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:07:22 2017 Total time spent: 00:00:06
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:08:37 2017 url_root:  http://www.jacobsteves.ca/
+Sat May 27 11:08:37 2017 url_start: http://www.jacobsteves.ca/
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017 Links found: 1
+Sat May 27 11:08:37 2017 Links crawlable: 1
+Sat May 27 11:08:37 2017 Links crawled (A): 1
+Sat May 27 11:08:37 2017 Other files downloaded (B): 0
+Sat May 27 11:08:37 2017 Total files downloaded (A+B): 1
+Sat May 27 11:08:37 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:08:37 2017 Total time spent: 00:00:00
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:50 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:08:50 2017 url_root:  http://a.com/
+Sat May 27 11:08:50 2017 url_start: http://a.com/
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:50 2017 mkdir -p "./download/a.com"
+Sat May 27 11:08:50 2017 Local root ./download/a.com is created
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:55 2017 link #1: http://a.com/
+Sat May 27 11:08:56 2017
+Sat May 27 11:08:56 2017 Links found: 1
+Sat May 27 11:08:56 2017 Links crawlable: 1
+Sat May 27 11:08:56 2017 Links crawled (A): 1
+Sat May 27 11:08:56 2017 Other files downloaded (B): 0
+Sat May 27 11:08:56 2017 Total files downloaded (A+B): 1
+Sat May 27 11:08:56 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:08:56 2017 Total time spent: 00:00:06
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:29 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:09:29 2017 url_root:  http://reddit.com/
+Sat May 27 11:09:29 2017 url_start: http://reddit.com/
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:29 2017 mkdir -p "./download/reddit.com"
+Sat May 27 11:09:29 2017 Local root ./download/reddit.com is created
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:34 2017 link #1: http://reddit.com/
+Sat May 27 11:09:35 2017
+Sat May 27 11:09:35 2017 Links found: 1
+Sat May 27 11:09:35 2017 Links crawlable: 1
+Sat May 27 11:09:35 2017 Links crawled (A): 1
+Sat May 27 11:09:35 2017 Other files downloaded (B): 0
+Sat May 27 11:09:35 2017 Total files downloaded (A+B): 1
+Sat May 27 11:09:35 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:09:35 2017 Total time spent: 00:00:06
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:14:14 2017 url_root:  http://www.jacobsteves.ca/
+Sat May 27 11:14:14 2017 url_start: http://www.jacobsteves.ca/
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017 Links found: 1
+Sat May 27 11:14:14 2017 Links crawlable: 1
+Sat May 27 11:14:14 2017 Links crawled (A): 1
+Sat May 27 11:14:14 2017 Other files downloaded (B): 0
+Sat May 27 11:14:14 2017 Total files downloaded (A+B): 1
+Sat May 27 11:14:14 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:14:14 2017 Total time spent: 00:00:00
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:15:20 2017 url_root:  http://reddit.com/
+Sat May 27 11:15:20 2017 url_start: http://reddit.com/
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017 Links found: 1
+Sat May 27 11:15:20 2017 Links crawlable: 1
+Sat May 27 11:15:20 2017 Links crawled (A): 1
+Sat May 27 11:15:20 2017 Other files downloaded (B): 0
+Sat May 27 11:15:20 2017 Total files downloaded (A+B): 1
+Sat May 27 11:15:20 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:15:20 2017 Total time spent: 00:00:00
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:32 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:16:32 2017 url_root:  http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:32 2017 url_start: http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:32 2017 mkdir -p "./download/www.jacobsteves.ca_index.php"
+Sat May 27 11:16:32 2017 Local root ./download/www.jacobsteves.ca_index.php is created
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:37 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:39 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 11:16:47 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 11:16:56 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 11:16:57 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 11:17:04 2017 link #4: http://www.jacobsteves.ca/index.php/index.php
+Sat May 27 11:17:12 2017 link #5: http://www.jacobsteves.ca/index.php/aboutme.php
+Sat May 27 11:17:21 2017 link #6: http://www.jacobsteves.ca/index.php/software.php
+Sat May 27 11:17:29 2017 link #7: http://www.jacobsteves.ca/index.php/contact.php
+Sat May 27 11:17:37 2017 link #8: http://www.jacobsteves.ca/index.php/images/universe.gif
+Sat May 27 11:17:38 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/images/"
+Sat May 27 11:17:45 2017 link #9: http://www.jacobsteves.ca/index.php/UniverseSimulator
+Sat May 27 11:17:53 2017 link #10: http://www.jacobsteves.ca/index.php/images/cuberacing.png
+Sat May 27 11:18:02 2017 link #11: http://www.jacobsteves.ca/index.php/cuberacing
+Sat May 27 11:18:09 2017 link #12: http://www.jacobsteves.ca/index.php/images/unimath.png
+Sat May 27 11:18:18 2017 link #13: http://www.jacobsteves.ca/index.php/images/inauguration.png
+Sat May 27 11:18:27 2017 link #14: http://www.jacobsteves.ca/index.php/inauguration/index.php
+Sat May 27 11:18:28 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/inauguration/"
+Sat May 27 11:18:35 2017 link #15: http://www.jacobsteves.ca/index.php/images/mario.jpg
+Sat May 27 11:18:43 2017 link #16: http://www.jacobsteves.ca/index.php/images/pfb.jpg
+Sat May 27 11:18:52 2017 link #17: http://www.jacobsteves.ca/index.php/images/lumberjack_screenshot.png
+Sat May 27 11:19:00 2017 link #18: http://www.jacobsteves.ca/index.php/software.php?name=lumberjack
+Sat May 27 11:19:11 2017 link #19: http://www.jacobsteves.ca/index.php/images/waterlooCourseAvailabilityScreenshot.png
+Sat May 27 11:19:23 2017 link #20: http://www.jacobsteves.ca/index.php/software.php?id=17
+Sat May 27 11:19:33 2017 link #21: http://www.jacobsteves.ca/index.php/images/gameboy.jpg
+Sat May 27 14:09:20 2017
+Sat May 27 14:09:20 2017 |        CrawlPerl Started        |
+Sat May 27 14:09:20 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:09:20 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:11:26 2017
+Sat May 27 14:11:26 2017 |        CrawlPerl Started        |
+Sat May 27 14:11:26 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:11:26 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:44 2017
+Sat May 27 14:12:44 2017 |        CrawlPerl Started        |
+Sat May 27 14:12:44 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:44 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:46 2017
+Sat May 27 14:12:46 2017 |        CrawlPerl Started        |
+Sat May 27 14:12:46 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:46 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017
+Sat May 27 14:14:17 2017 |        CrawlPerl Started        |
+Sat May 27 14:14:17 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017 mkdir -p "./datawww.jacobsteves.ca_index.php"
+Sat May 27 14:14:17 2017 Local root ./datawww.jacobsteves.ca_index.php is created
+Sat May 27 14:14:17 2017
+Sat May 27 14:14:22 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:23 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:14:24 2017 mkdir -p "./datawww.jacobsteves.ca"
+Sat May 27 14:14:32 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:14:40 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:14:41 2017 mkdir -p "./datawww.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:14:55 2017
+Sat May 27 14:14:55 2017 |        CrawlPerl Started        |
+Sat May 27 14:14:55 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:55 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:55 2017 mkdir -p "./data/www.jacobsteves.ca_index.php"
+Sat May 27 14:14:55 2017 Local root ./data/www.jacobsteves.ca_index.php is created
+Sat May 27 14:14:55 2017
+Sat May 27 14:15:00 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:01 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:15:02 2017 mkdir -p "./data/www.jacobsteves.ca"
+Sat May 27 14:15:28 2017
+Sat May 27 14:15:28 2017 |        CrawlPerl Started        |
+Sat May 27 14:15:28 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:28 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:33 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:15:42 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:15:43 2017 mkdir -p "./data/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:22:42 2017
+Sat May 27 14:22:42 2017 |        CrawlPerl Started        |
+Sat May 27 14:22:42 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:42 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:42 2017 mkdir -p "./data/www.jacobsteves.ca_index.php"
+Sat May 27 14:22:42 2017 Local root ./data/www.jacobsteves.ca_index.php is created
+Sat May 27 14:22:42 2017
+Sat May 27 14:22:47 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:49 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:22:50 2017 mkdir -p "./data/www.jacobsteves.ca"
+Sat May 27 14:22:57 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:23:06 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:23:07 2017 mkdir -p "./data/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:55:33 2017
+Sat May 27 14:55:33 2017 |---------- CrawlPerl Started ----------|
+Sat May 27 14:55:33 2017 Spider released.
+Sat May 27 14:55:33 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:55:33 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:55:38 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:46 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:05:46 2017 url_root:  https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:46 2017 url_start: https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:46 2017 mkdir -p "./download/"
+Sat May 27 11:05:46 2017 Local repository ./download/ is created
+Sat May 27 11:05:46 2017 mkdir -p "./download/www.reddit.com_r_uwaterloo"
+Sat May 27 11:05:46 2017 Local root ./download/www.reddit.com_r_uwaterloo is created
+Sat May 27 11:05:46 2017
+Sat May 27 11:05:51 2017 link #1: https://www.reddit.com/r/uwaterloo/
+Sat May 27 11:05:52 2017
+Sat May 27 11:05:52 2017 Links found: 1
+Sat May 27 11:05:52 2017 Links crawlable: 1
+Sat May 27 11:05:52 2017 Links crawled (A): 1
+Sat May 27 11:05:52 2017 Other files downloaded (B): 0
+Sat May 27 11:05:52 2017 Total files downloaded (A+B): 1
+Sat May 27 11:05:52 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:05:52 2017 Total time spent: 00:00:06
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:16 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:07:16 2017 url_root:  https://www.jacobsteves.ca/
+Sat May 27 11:07:16 2017 url_start: https://www.jacobsteves.ca/
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:16 2017 mkdir -p "./download/www.jacobsteves.ca"
+Sat May 27 11:07:16 2017 Local root ./download/www.jacobsteves.ca is created
+Sat May 27 11:07:16 2017
+Sat May 27 11:07:21 2017 link #1: https://www.jacobsteves.ca/
+Sat May 27 11:07:22 2017
+Sat May 27 11:07:22 2017 Links found: 1
+Sat May 27 11:07:22 2017 Links crawlable: 1
+Sat May 27 11:07:22 2017 Links crawled (A): 1
+Sat May 27 11:07:22 2017 Other files downloaded (B): 0
+Sat May 27 11:07:22 2017 Total files downloaded (A+B): 1
+Sat May 27 11:07:22 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:07:22 2017 Total time spent: 00:00:06
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:08:37 2017 url_root:  http://www.jacobsteves.ca/
+Sat May 27 11:08:37 2017 url_start: http://www.jacobsteves.ca/
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017
+Sat May 27 11:08:37 2017 Links found: 1
+Sat May 27 11:08:37 2017 Links crawlable: 1
+Sat May 27 11:08:37 2017 Links crawled (A): 1
+Sat May 27 11:08:37 2017 Other files downloaded (B): 0
+Sat May 27 11:08:37 2017 Total files downloaded (A+B): 1
+Sat May 27 11:08:37 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:08:37 2017 Total time spent: 00:00:00
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:50 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:08:50 2017 url_root:  http://a.com/
+Sat May 27 11:08:50 2017 url_start: http://a.com/
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:50 2017 mkdir -p "./download/a.com"
+Sat May 27 11:08:50 2017 Local root ./download/a.com is created
+Sat May 27 11:08:50 2017
+Sat May 27 11:08:55 2017 link #1: http://a.com/
+Sat May 27 11:08:56 2017
+Sat May 27 11:08:56 2017 Links found: 1
+Sat May 27 11:08:56 2017 Links crawlable: 1
+Sat May 27 11:08:56 2017 Links crawled (A): 1
+Sat May 27 11:08:56 2017 Other files downloaded (B): 0
+Sat May 27 11:08:56 2017 Total files downloaded (A+B): 1
+Sat May 27 11:08:56 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:08:56 2017 Total time spent: 00:00:06
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:29 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:09:29 2017 url_root:  http://reddit.com/
+Sat May 27 11:09:29 2017 url_start: http://reddit.com/
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:29 2017 mkdir -p "./download/reddit.com"
+Sat May 27 11:09:29 2017 Local root ./download/reddit.com is created
+Sat May 27 11:09:29 2017
+Sat May 27 11:09:34 2017 link #1: http://reddit.com/
+Sat May 27 11:09:35 2017
+Sat May 27 11:09:35 2017 Links found: 1
+Sat May 27 11:09:35 2017 Links crawlable: 1
+Sat May 27 11:09:35 2017 Links crawled (A): 1
+Sat May 27 11:09:35 2017 Other files downloaded (B): 0
+Sat May 27 11:09:35 2017 Total files downloaded (A+B): 1
+Sat May 27 11:09:35 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:09:35 2017 Total time spent: 00:00:06
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:14:14 2017 url_root:  http://www.jacobsteves.ca/
+Sat May 27 11:14:14 2017 url_start: http://www.jacobsteves.ca/
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017
+Sat May 27 11:14:14 2017 Links found: 1
+Sat May 27 11:14:14 2017 Links crawlable: 1
+Sat May 27 11:14:14 2017 Links crawled (A): 1
+Sat May 27 11:14:14 2017 Other files downloaded (B): 0
+Sat May 27 11:14:14 2017 Total files downloaded (A+B): 1
+Sat May 27 11:14:14 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:14:14 2017 Total time spent: 00:00:00
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:15:20 2017 url_root:  http://reddit.com/
+Sat May 27 11:15:20 2017 url_start: http://reddit.com/
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017
+Sat May 27 11:15:20 2017 Links found: 1
+Sat May 27 11:15:20 2017 Links crawlable: 1
+Sat May 27 11:15:20 2017 Links crawled (A): 1
+Sat May 27 11:15:20 2017 Other files downloaded (B): 0
+Sat May 27 11:15:20 2017 Total files downloaded (A+B): 1
+Sat May 27 11:15:20 2017 Total download size: 0 bytes, or 0.000 KB
+Sat May 27 11:15:20 2017 Total time spent: 00:00:00
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:32 2017 ===== Perl Web Crawler started =====
+Sat May 27 11:16:32 2017 url_root:  http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:32 2017 url_start: http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:32 2017 mkdir -p "./download/www.jacobsteves.ca_index.php"
+Sat May 27 11:16:32 2017 Local root ./download/www.jacobsteves.ca_index.php is created
+Sat May 27 11:16:32 2017
+Sat May 27 11:16:37 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 11:16:39 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 11:16:47 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 11:16:56 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 11:16:57 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 11:17:04 2017 link #4: http://www.jacobsteves.ca/index.php/index.php
+Sat May 27 11:17:12 2017 link #5: http://www.jacobsteves.ca/index.php/aboutme.php
+Sat May 27 11:17:21 2017 link #6: http://www.jacobsteves.ca/index.php/software.php
+Sat May 27 11:17:29 2017 link #7: http://www.jacobsteves.ca/index.php/contact.php
+Sat May 27 11:17:37 2017 link #8: http://www.jacobsteves.ca/index.php/images/universe.gif
+Sat May 27 11:17:38 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/images/"
+Sat May 27 11:17:45 2017 link #9: http://www.jacobsteves.ca/index.php/UniverseSimulator
+Sat May 27 11:17:53 2017 link #10: http://www.jacobsteves.ca/index.php/images/cuberacing.png
+Sat May 27 11:18:02 2017 link #11: http://www.jacobsteves.ca/index.php/cuberacing
+Sat May 27 11:18:09 2017 link #12: http://www.jacobsteves.ca/index.php/images/unimath.png
+Sat May 27 11:18:18 2017 link #13: http://www.jacobsteves.ca/index.php/images/inauguration.png
+Sat May 27 11:18:27 2017 link #14: http://www.jacobsteves.ca/index.php/inauguration/index.php
+Sat May 27 11:18:28 2017 mkdir -p "./download/www.jacobsteves.ca_index.php/inauguration/"
+Sat May 27 11:18:35 2017 link #15: http://www.jacobsteves.ca/index.php/images/mario.jpg
+Sat May 27 11:18:43 2017 link #16: http://www.jacobsteves.ca/index.php/images/pfb.jpg
+Sat May 27 11:18:52 2017 link #17: http://www.jacobsteves.ca/index.php/images/lumberjack_screenshot.png
+Sat May 27 11:19:00 2017 link #18: http://www.jacobsteves.ca/index.php/software.php?name=lumberjack
+Sat May 27 11:19:11 2017 link #19: http://www.jacobsteves.ca/index.php/images/waterlooCourseAvailabilityScreenshot.png
+Sat May 27 11:19:23 2017 link #20: http://www.jacobsteves.ca/index.php/software.php?id=17
+Sat May 27 11:19:33 2017 link #21: http://www.jacobsteves.ca/index.php/images/gameboy.jpg
+Sat May 27 14:09:20 2017
+Sat May 27 14:09:20 2017 |        CrawlPerl Started        |
+Sat May 27 14:09:20 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:09:20 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:11:26 2017
+Sat May 27 14:11:26 2017 |        CrawlPerl Started        |
+Sat May 27 14:11:26 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:11:26 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:44 2017
+Sat May 27 14:12:44 2017 |        CrawlPerl Started        |
+Sat May 27 14:12:44 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:44 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:46 2017
+Sat May 27 14:12:46 2017 |        CrawlPerl Started        |
+Sat May 27 14:12:46 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:12:46 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017
+Sat May 27 14:14:17 2017 |        CrawlPerl Started        |
+Sat May 27 14:14:17 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:17 2017 mkdir -p "./datawww.jacobsteves.ca_index.php"
+Sat May 27 14:14:17 2017 Local root ./datawww.jacobsteves.ca_index.php is created
+Sat May 27 14:14:17 2017
+Sat May 27 14:14:22 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:23 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:14:24 2017 mkdir -p "./datawww.jacobsteves.ca"
+Sat May 27 14:14:32 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:14:40 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:14:41 2017 mkdir -p "./datawww.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:14:55 2017
+Sat May 27 14:14:55 2017 |        CrawlPerl Started        |
+Sat May 27 14:14:55 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:55 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:14:55 2017 mkdir -p "./data/www.jacobsteves.ca_index.php"
+Sat May 27 14:14:55 2017 Local root ./data/www.jacobsteves.ca_index.php is created
+Sat May 27 14:14:55 2017
+Sat May 27 14:15:00 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:01 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:15:02 2017 mkdir -p "./data/www.jacobsteves.ca"
+Sat May 27 14:15:28 2017
+Sat May 27 14:15:28 2017 |        CrawlPerl Started        |
+Sat May 27 14:15:28 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:28 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:15:33 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:15:42 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:15:43 2017 mkdir -p "./data/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:22:42 2017
+Sat May 27 14:22:42 2017 |        CrawlPerl Started        |
+Sat May 27 14:22:42 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:42 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:42 2017 mkdir -p "./data/www.jacobsteves.ca_index.php"
+Sat May 27 14:22:42 2017 Local root ./data/www.jacobsteves.ca_index.php is created
+Sat May 27 14:22:42 2017
+Sat May 27 14:22:47 2017 link #1: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:22:49 2017 file #1: http://www.jacobsteves.ca/favicon.ico
+Sat May 27 14:22:50 2017 mkdir -p "./data/www.jacobsteves.ca"
+Sat May 27 14:22:57 2017 link #2: http://www.jacobsteves.ca/index.php/main.css
+Sat May 27 14:23:06 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
+Sat May 27 14:23:07 2017 mkdir -p "./data/www.jacobsteves.ca_index.php/assets/css/"
+Sat May 27 14:55:33 2017
+Sat May 27 14:55:33 2017 |---------- CrawlPerl Started ----------|
+Sat May 27 14:55:33 2017 Spider released.
+Sat May 27 14:55:33 2017 Url Root: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:55:33 2017 Url Start: http://www.jacobsteves.ca/index.php/
+Sat May 27 14:55:38 2017 link #3: http://www.jacobsteves.ca/index.php/assets/css/skillbar.css
