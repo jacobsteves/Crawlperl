@@ -2,7 +2,7 @@
 A web crawler made with Perl. Great for grabbing or searching for data off the web, or ensuring that your own site files are secure and hidden.
 
 ## Usage
-Check out the help table below. When calling a url, make sure to use a file name as a url suffix like this: http://url.com/index.html.
+Check out the help table below. When calling a url, make sure to use a file name as a url suffix like this: `http://url.com/index.html`.
 If you do not, then the crawler may have trouble finding the correct directory.
 
 ## Information
@@ -19,10 +19,11 @@ All crawled data will be within there.
 
 A log file, crawlperl.log will be created in the main directory,
 as well as a cookie file, cookie.txt. However these files have already been
-placed in this repo. 
+placed in this repo.
 
 ## Help table
-`Usage: perl CrawlPerl.pl -u <url_start> [-r <url_root>] [-options]
+<pre>
+  Usage: perl CrawlPerl.pl -u <url_start> [-r <url_root>] [-options]
 
   NOTE: <val> represents a value. Example,
     -b <verbose>
@@ -67,7 +68,7 @@ placed in this repo.
         image - 0x2 = 2
         audio - 0x4 = 4
         video - 0x8 = 8
-        For more options, click [here.](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types)
+        For more options, head to https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types.
     --mime_type: same as -m
 
     -n <number of links>: the number of links to crawl. 0 means inifinite.
@@ -128,4 +129,5 @@ placed in this repo.
   Remember to be specific when specifing crawlers.
   http://test.com may not work, while http://test.com/index.html may work.
 
-  Happy Crawling.`
+  Happy Crawling.
+  </pre>
