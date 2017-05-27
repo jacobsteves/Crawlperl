@@ -2,7 +2,11 @@
 A web crawler made with Perl. Great for grabbing or searching for data off the web, or ensuring that your own site files are secure and hidden.
 
 ## Usage
-Check out the help table below. When calling a url, make sure to use a file name as a url suffix like this: `http://url.com/index.html`.
+Head into terminal and run the command `perl CrawlPerl.pl -u <start_url> [-r <root_url>] [-options]` with your specified root_url, start_url, and options. 
+
+Note: `perl CrawlPerl.pl -u <start_url>` also works perfectly. Only add [-options] if you have more to specify. For more information, check out the help table below. 
+
+When calling a url, make sure to use a file name as a url suffix like this: `http://url.com/index.html`.
 If you do not, then the crawler may have trouble finding the correct directory.
 
 ## Information
@@ -10,7 +14,7 @@ CrawlPerl simulates a firefox browser, travelling to certain websites and
 downloading the files. Links within the files get travelled to and downloaded.
 This tool is perfect if you want to ensure the security of your data.
 If links are not embedded properly or information is not hidden sufficiently,
-thenanyone could just use a tool like this and grab all of your data.
+then anyone could just use a tool like this and grab all of your data.
 
 When the function is called initially, it creates a local folder ./Data/ within
 the same directory that will store all crawled data. For each crawled site, a
