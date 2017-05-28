@@ -540,6 +540,7 @@ sub findPrevCrawl() {
   return 1;
 }
 
+# dumpHash() prints out each hashed key 
 sub dumpHash() {
   my $h = shift;
   my %hash = %$h;
@@ -551,6 +552,7 @@ sub dumpHash() {
   }
 }
 
+# getBrowser() returns a simulated browser window with appropriate cookies
 sub getBrowser() {
   push(@LWP::Protocol::http::EXTRA_SOCK_OPTS, SendTE=>0);
   my $browser = LWP::UserAgent->new(keep_alive=>1);
@@ -578,6 +580,7 @@ sub getBrowser() {
   return $browser;
 }
 
+# displayVersion() prints the current version to the screen
 sub displayVersion() {
   print "\nCrawlPerl version 1.0.\n\n";
 }
@@ -590,14 +593,17 @@ sub getLogName() {
   return $log;
 }
 
+# getLnkFoundLog() returns a new link found log
 sub getLnkFoundLog() {
   return "$local_root/.crawlperl_lnk_found.log";
 }
 
+# getLnkQueueLog() returns a new Queue Log 
 sub getLnkQueueLog() {
   return "$local_root/.crawlperl_" . getQueueLogName() . "_lnk_Q.log";
 }
 
+# getLnkQueueIndexLog() returns a new Queue Log with an associated Id
 sub getLnkQueueIndexLog() {
   my $name = $url_start;
   $name =~ s/^$url_root//;
@@ -605,6 +611,7 @@ sub getLnkQueueIndexLog() {
   return "$local_root/.crawlperl_" . getQueueLogName() . "_lnk_Q_ID.log";
 }
 
+# getLastUrlStartLog() simply returns the last url start logged
 sub getLastUrlStartLog() {
   return "$local_root/.crawlperl_last_url_start.log";
 }
