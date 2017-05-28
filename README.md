@@ -27,7 +27,7 @@ placed in this repo.
 
 ## Help table
 <pre>
-  Usage: perl CrawlPerl.pl -u <url_start> [-r <url_root>] [-options]
+  Usage: perl CrawlPerl.pl -u &lt;url_start> [-r &lt;url_root>] [-options]
 
   NOTE: &lt;val> represents a value. Example,
     -b &lt;verbose>
@@ -122,13 +122,13 @@ placed in this repo.
   To see perldoc document, type: perldoc $0
 
   Examples:
-    perl $0 -h
-    perl $0 -r http://test.com
-    perl $0 -u http://test.com/index.html
-    perl $0 -r http://test.com -u http://test.com/about.html
-    perl $0 --url-root http://test.com
-    perl $0 --url-root http://test.com --url-start http://test.com/
-    perl $0 --url-root http://test.com -n 1 -m 2 -f --min-size 15000
+    perl CrawlPerl.pl -h
+    perl CrawlPerl.pl -r http://test.com
+    perl CrawlPerl.pl -u http://test.com/index.html
+    perl CrawlPerl.pl -r http://test.com -u http://test.com/about.html
+    perl CrawlPerl.pl --url-root http://test.com
+    perl CrawlPerl.pl --url-root http://test.com --url-start http://test.com/
+    perl CrawlPerl.pl --url-root http://test.com -n 1 -m 2 -f --min-size 15000
 
   Remember to be specific when specifing crawlers.
   http://test.com may not work, while http://test.com/index.html may work.
