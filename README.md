@@ -9,6 +9,9 @@ Note: `perl CrawlPerl.pl -u <start_url>` also works perfectly. Only add [-option
 When calling a url, make sure to use a file name as a url suffix like this: `http://url.com/index.html`.
 If you do not, then the crawler may have trouble finding the correct directory.
 
+### Demo
+[![https://gyazo.com/f8c7787ab45a5cdd6a4687a4510baae6](https://i.gyazo.com/f8c7787ab45a5cdd6a4687a4510baae6.gif)](https://gyazo.com/f8c7787ab45a5cdd6a4687a4510baae6)
+
 ## Information
 CrawlPerl simulates a firefox browser, travelling to certain websites and
 downloading the files. Links within the files get travelled to and downloaded.
