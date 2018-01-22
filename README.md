@@ -1,10 +1,19 @@
-# CrawlPerl
-A web crawler made with Perl. Great for grabbing or searching for data off the web, or ensuring that your own site files are secure and hidden.
+[![](http://jacobsteves.ca/images/crawlPerlLogo.png)]()
 
-## Usage
-Head into terminal and run the command `perl CrawlPerl.pl -u <start_url> [-r <root_url>] [-options]` with your specified root_url, start_url, and options. 
+CrawlPerl simulates a firefox browser, travelling to certain websites and downloading the files. Links within the files get travelled to and downloaded. This tool is perfect if you want to ensure the security of your data. If links are not embedded properly or information is not hidden sufficiently, then anyone could just use a tool like this and grab all of your data.
 
-Note: `perl CrawlPerl.pl -u <start_url>` also works perfectly. Only add [-options] if you have more to specify. For more information, check out the help table below. 
+## Getting Started
+Head into terminal and run the command:
+```
+perl CrawlPerl.pl -u <start_url> [-r <root_url>] [-options]
+```
+with your specified root_url, start_url, and options. 
+
+Note: 
+```
+perl CrawlPerl.pl -u <start_url>
+```
+also works perfectly. Only add [-options] if you have more to specify. For more information, check out the [help table below](#help-table). 
 
 When calling a url, make sure to use a file name as a url suffix like this: `http://url.com/index.html`.
 If you do not, then the crawler may have trouble finding the correct directory.
@@ -12,12 +21,7 @@ If you do not, then the crawler may have trouble finding the correct directory.
 ### Demo
 [![https://gyazo.com/f8c7787ab45a5cdd6a4687a4510baae6](https://i.gyazo.com/f8c7787ab45a5cdd6a4687a4510baae6.gif)](https://gyazo.com/f8c7787ab45a5cdd6a4687a4510baae6)
 
-## Information
-CrawlPerl simulates a firefox browser, travelling to certain websites and
-downloading the files. Links within the files get travelled to and downloaded.
-This tool is perfect if you want to ensure the security of your data.
-If links are not embedded properly or information is not hidden sufficiently,
-then anyone could just use a tool like this and grab all of your data.
+## Details
 
 When the function is called initially, it creates a local folder ./Data/ within
 the same directory that will store all crawled data. For each crawled site, a
