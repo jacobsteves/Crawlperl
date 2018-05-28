@@ -1,4 +1,4 @@
-[![](http://jacobsteves.ca/images/crawlPerlLogo.png)]()
+[![Logo](assets/logo.png)]()
 
 CrawlPerl simulates a firefox browser, travelling to certain websites and downloading the files. Links within the files get travelled to and downloaded. This tool is perfect if you want to ensure the security of your data. If links are not embedded properly or information is not hidden sufficiently, then anyone could just use a tool like this and grab all of your data.
 
