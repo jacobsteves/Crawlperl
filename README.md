@@ -28,9 +28,8 @@ the same directory that will store all crawled data. For each crawled site, a
 subdirectory within ./Data/ is created with the name derived from url_root.
 All crawled data will be within there.
 
-A log file, crawlperl.log will be created in the main directory,
-as well as a cookie file, cookie.txt. However these files have already been
-placed in this repo.
+A log file, `crawlperl.log` will be created in the main directory containing the crawl history.
+A cookie file, `cookie.txt`, may also be created. 
 
 ## Help table
 <pre>
